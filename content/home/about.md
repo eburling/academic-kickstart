@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Computational Biology",
     "Structural Biology",
-    "Neuroscience"
+    "Neuroscience",
     "Deep Learning"
   ]
 
@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Neuroscience"
   institution = "Oregon Health & Science University"
-  year = expected 2022
+  year = 2022
 
 [[education.courses]]
   course = "MSc in Bioinformatics"
