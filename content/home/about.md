@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Computational Biology",
+    "Structural Biology",
+    "Deep Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Neuroscience"
+  institution = "Oregon Health & Science University"
+  year = 2022
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MS in Bioinformatics"
+  institution = "University of Oregon"
+  year = 2017
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "BSc in Biochemistry"
+  institution = "University of Oregon"
+  year = 2016
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a neuroscience PhD student at OHSU with a background in machine/deep learning applications in medical imaging, in particular, the application of generative adversarial networks to translate images from one imaging modality into another (see our SHIFT paper for the details). As a neuroscience student, I am interested in leveraging my knowledge of machine/deep learning technology to potentiate my research on the structural biology of the nervous system, which will focus on ion channel/GPCR structure and function.
