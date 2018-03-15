@@ -35,13 +35,13 @@ selected = true
 projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "https://eburling.github.io/academic-kickstart/static/files/SHIFT-SPIE-Medical-Imaging-2018.pdf"
 url_project = "#"
 url_video = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+#url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
 math = true
