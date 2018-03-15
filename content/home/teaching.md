@@ -15,9 +15,7 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
-I am a teaching instructor for the following courses at University X:
+# Graduate Teaching Fellow
 
 - CS101: An intro to computer science
 - CS102: An intro to computer science
