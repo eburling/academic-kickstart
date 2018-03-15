@@ -22,8 +22,8 @@ weight = 60
 
 ## Science Literacy Lecturer
 - BI121: Introduction to Human Genetics
--  January 2015 – March 2015
-- Science Literacy Program | Department of Biology | University of Oregon | Eugene, OR
+- January 2015 – March 2015
+- Department of Biology | University of Oregon | Eugene, OR
 
 ## Teaching Laboratory Assistant and Tutor
 - BI281H: Honors Biology: Cells, Biochemistry, and Physics
