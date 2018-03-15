@@ -1,7 +1,7 @@
 +++
 date = 2017-03-15T00:00:00  # Schedule page publish date.
 
-title = "SHIFT"
+title = "SPIE Medical Imaging 2018"
 time_start = 2018-02-10T16:00:00
 time_end = 2018-02-10T17:00:00
 abstract = ""
