@@ -38,4 +38,4 @@ image = "headers/SHIFT-header.png"
 
 +++
 
-[video](/videos/960by540-SHIFT.mp4)
+{{< vimeo 260333797 >}}
