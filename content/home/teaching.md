@@ -16,10 +16,9 @@ weight = 60
 +++
 
 ## Graduate Teaching Fellow
-- Department of Biology | University of Oregon | Eugene, OR
+- BI121: Intro to Human Physiology
 - September 2016 – December 2016
-Taught lab portion of introductory human anatomy and physiology course for non-biology majors.
-Evaluated student lab notebooks with emphasis on skills that are transferable to other biology courses.
+- Department of Biology | University of Oregon | Eugene, OR
 
 ## Science Literacy Lecturer
 
