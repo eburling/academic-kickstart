@@ -40,7 +40,7 @@ projects = ["example-external-project"]
 # Links (optional).
 url_pdf = "files/SHIFT-SPIE-Medical-Imaging-2018.pdf"
 url_project = "#"
-url_video = "#"
+url_video = "https://vimeo.com/260333797"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
