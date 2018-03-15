@@ -25,4 +25,7 @@ weight = 60
 -  January 2015 – March 2015
 - Science Literacy Program | Department of Biology | University of Oregon | Eugene, OR
 
-## Teaching Laboratory Assistant & Tutor
+## Teaching Laboratory Assistant and Tutor
+- BI281H: Honors Biology: Cells, Biochemistry, and Physics
+- September 2016 – December 2016
+- Department of Biology | University of Oregon | Eugene, OR
