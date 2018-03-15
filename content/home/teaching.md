@@ -16,10 +16,13 @@ weight = 60
 +++
 
 ## Graduate Teaching Fellow
-- BI121: Intro to Human Physiology
+- BI121: Introduction to Human Physiology
 - September 2016 – December 2016
 - Department of Biology | University of Oregon | Eugene, OR
 
 ## Science Literacy Lecturer
+- BI121: Introduction to Human Genetics
+-  January 2015 – March 2015
+- Science Literacy Program | Department of Biology | University of Oregon | Eugene, OR
 
 ## Teaching Laboratory Assistant & Tutor
