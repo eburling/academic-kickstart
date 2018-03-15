@@ -27,5 +27,5 @@ weight = 60
 
 ## Teaching Laboratory Assistant and Tutor
 - BI281H: Honors Biology: Cells, Biochemistry, and Physics
-- September 2016 – December 2016
+- September 2014 - December 2014
 - Department of Biology | University of Oregon | Eugene, OR
