@@ -35,7 +35,7 @@ selected = true
 projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "/static/img/SHIFT-SPIE-Medical-Imaging-2018.pdf"
+url_pdf = "files/SHIFT-SPIE-Medical-Imaging-2018.pdf"
 url_project = "#"
 url_video = "#"
 
