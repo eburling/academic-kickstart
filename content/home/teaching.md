@@ -15,7 +15,11 @@ weight = 60
 
 +++
 
-# Graduate Teaching Fellow
+## Graduate Teaching Fellow
+
+## Science Literacy Lecturer
+
+## Teaching Laboratory Assistant & Tutor
 
 - CS101: An intro to computer science
 - CS102: An intro to computer science
