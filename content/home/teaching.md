@@ -16,7 +16,8 @@ weight = 60
 +++
 
 ## Graduate Teaching Fellow
-- University of Oregon | Department of Biology
+- Department of Biology | University of Oregon | Eugene, OR
+- September 2016 – December 2016
 
 ## Science Literacy Lecturer
 
