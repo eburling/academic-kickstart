@@ -16,6 +16,8 @@ authors = ["EA Burlingame", "AA Margolin", "JW Gray", "YH Chang"]
 # 6 = Book chapter
 publication_types = ["1"]
 
+displayMath: [['$$','$$'], ['\\[','\\]']]
+
 # Publication name and optional abbreviated version.
 publication = "In *Proceedings of SPIE Medical Imaging 2018: Digital Pathology*."
 publication_short = "In _Proc. SPIE_ **10581**"
