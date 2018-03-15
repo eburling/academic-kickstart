@@ -18,15 +18,9 @@ weight = 60
 ## Graduate Teaching Fellow
 - Department of Biology | University of Oregon | Eugene, OR
 - September 2016 – December 2016
+Taught lab portion of introductory human anatomy and physiology course for non-biology majors.
+Evaluated student lab notebooks with emphasis on skills that are transferable to other biology courses.
 
 ## Science Literacy Lecturer
 
 ## Teaching Laboratory Assistant & Tutor
-
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
