@@ -36,4 +36,4 @@ weight = 5
 
 # Biography
 
-I am a neuroscience PhD student at OHSU with a background in machine/deep learning applications in medical imaging, in particular, the application of generative adversarial networks to translate images from one imaging modality into another (see our SHIFT paper for the details). As a neuroscience student, I am interested in leveraging my knowledge of machine/deep learning technology to potentiate my research on the structural biology of the nervous system, which will focus on ion channel/GPCR structure and function.
+I am a neuroscience PhD student at OHSU with a background in machine/deep learning applications in medical imaging, in particular, the application of generative adversarial networks to translate images from one imaging modality into another (see our [SHIFT paper]{{< ref "files/SHIFT-SPIE-Medical-Imaging-2018.pdf" >}} for the details). As a neuroscience student, I am interested in leveraging my knowledge of machine/deep learning technology to potentiate my research on the structural biology of the nervous system, which will focus on ion channel/GPCR structure and function.
