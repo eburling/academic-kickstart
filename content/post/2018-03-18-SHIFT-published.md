@@ -5,7 +5,7 @@ date = 2018-03-18
 lastmod = 2018-03-18
 draft = false
 
-tags = [""]
+tags = ["deep-learning"]
 summary = "Our SHIFT paper was published in Proceedings of SPIE Medical Imaging!"
 
 [header]
