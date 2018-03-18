@@ -9,7 +9,7 @@ title = "Structural Biology"
 summary = "An example of linking directly to an external project website using `external_link`."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "boards.jpg"
+image_preview = "struc-preview.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -21,5 +21,8 @@ tags = ["structural-biology"]
 # Does the project detail page use math formatting?
 math = false
 
+[header]
+image = "headers/bubbles-wide.jpg"
+caption = ""
+
 +++
-Check one two
