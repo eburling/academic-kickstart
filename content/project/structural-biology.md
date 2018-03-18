@@ -6,7 +6,7 @@ date = "2018-03-18"
 title = "Structural Biology"
 
 # Project summary to display on homepage.
-summary = "My graduate research will be focused on the structural biology in the context of the nervous system."
+summary = "My graduate research is focused on structural biology in the context of the nervous system."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "struc-preview.jpg"
