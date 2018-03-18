@@ -14,5 +14,3 @@ list_format = 0
 image = ""
 caption = ""
 +++
-
-{{< vimeo 260333797 >}}
