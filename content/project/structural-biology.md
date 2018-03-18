@@ -16,9 +16,10 @@ image_preview = "boards.jpg"
 tags = ["structural-biology"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+#external_link = "http://example.org"
 
 # Does the project detail page use math formatting?
 math = false
 
 +++
+Check one two
