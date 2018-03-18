@@ -6,10 +6,10 @@ date = "2016-04-27"
 title = "Deep Learning"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "Deep learning applications in medical imaging and electron microscopy."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "dl.png"
+image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
