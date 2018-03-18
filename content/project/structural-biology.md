@@ -22,7 +22,7 @@ tags = ["structural-biology"]
 math = false
 
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "struc-preview.jpg"
 caption = ""
 
 +++
