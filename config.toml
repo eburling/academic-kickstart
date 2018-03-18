@@ -271,6 +271,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "CV"
   url = "files/cv.pdf"
+  target="\_blank"
   weight = 6
 
 [[menu.main]]
