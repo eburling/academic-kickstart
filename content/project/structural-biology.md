@@ -6,7 +6,7 @@ date = "2018-03-18"
 title = "Structural Biology"
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "struc-preview.jpg"
