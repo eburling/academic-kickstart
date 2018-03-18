@@ -37,8 +37,7 @@ filter_default = 0
   tag = ".deep-learning"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Structural Biology"
+  tag = ".structural-biology"
 
 +++
-
