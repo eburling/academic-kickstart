@@ -28,4 +28,4 @@ caption = ""
 
 +++
 
-The computerization of biology..yada..
+The computerization of biology in recent decades has fundamentally changed the way knowledge about life can be acquired and applied. Technological advances are ever-heightening the predictive ability of biological science, while at the same time inundating our existing workflow channels. Wielding an integrative, machine-driven toolset, my goal is to part this sea of data and find sunken material of biological significance.
