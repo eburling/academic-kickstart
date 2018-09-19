@@ -11,14 +11,13 @@ weight = 5
 [interests]
   interests = [
     "Computational Biology",
-    "Structural Biology",
-    "Neuroscience",
-    "Deep Learning"
+    "Deep Learning",
+    "Quantitative Image Analysis"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Neuroscience"
+  course = "PhD in Biomedical Engineering"
   institution = "Oregon Health & Science University"
   year = 2022
 
@@ -36,4 +35,4 @@ weight = 5
 
 # Biography
 
-Erik Ames Burlingame is a computational biology PhD student at OHSU with interests in machine/deep learning applications for medical imaging, in particular, the application of generative adversarial networks to translate images from one imaging modality into another (see our <a href="files/SHIFT-SPIE-Medical-Imaging-2018.pdf" target="\_blank">SHIFT paper</a> for the details). Download his <a href="files/cv.pdf" target="\_blank">CV</a> for a more complete story.
+Erik Ames Burlingame is a biomedical engineering PhD student in the Computational Biology Program at Oregon Health & Science University with interests in machine/deep learning applications for medical imaging, in particular, the application of generative adversarial networks to translate images from one imaging modality into another (see our <a href="files/SHIFT-SPIE-Medical-Imaging-2018.pdf" target="\_blank">SHIFT paper</a> for the details). Download his <a href="files/cv.pdf" target="\_blank">CV</a> for a more complete story.
